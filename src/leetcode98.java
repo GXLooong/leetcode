@@ -1,9 +1,11 @@
 package src;
 
+
 import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.Deque;
 
+@SuppressWarnings({"all"})
 public class leetcode98 {
     public static void main(String[] args) {
         // 验证二叉搜索树
